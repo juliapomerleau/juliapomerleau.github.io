@@ -1,13 +1,19 @@
 h1{ 
    text-align: center;
    color:#FF1493;
+   background-color:#FFFFFF;
    font-family: "Georgia";
+   margin-right: 10px;
+   margin-left: 10px;
 }
 
 h2 {
     text-align: center;
    color:#FFFAFA;
    font-family: "Georgia";
+   background-color: #FFFFFF;
+   margin-right: 10px;
+   margin-left: 10px;
         }  
         
         body {
