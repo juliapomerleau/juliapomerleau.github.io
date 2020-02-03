@@ -2,24 +2,24 @@ h1{
    text-align: center;
    color:#FF1493;
 }
+
 h2 {
     text-align: center;
    color:#FF69B4;
- 
         }  
         
         body {
            background-color: #E6E6FA;
            background-image: url("sky1.jpg");
             text-align: center;
+}
+
 p {
  color: #FFFFFF;
    background-color: #000000;
    margin-right: 10px;
    margin-left: 10px;
-       
-              text-align: center;
+    text-align: center;
            
            }
   
-}
