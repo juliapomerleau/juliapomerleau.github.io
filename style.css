@@ -12,12 +12,21 @@ h2 {
            background-color: #E6E6FA;
            background-image: url("sky1.jpg");
             text-align: center;
-        
-p{
-   color: #FFFFFF;
+
+#bio {
+   text-align: center;
+ color: #FFFFFF;
    background-color: #000000;
    margin-right: 25px;
    margin-left: 25px;
+           }
+           
+           #list {
+              text-align: center;
+              color: #FFFFFF;
+              background-color: #000000;
+              margin-right: 25px;
+              margin-left: 25px;
+              float:both;
+           }
   
-}
-}
