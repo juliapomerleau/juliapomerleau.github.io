@@ -30,3 +30,13 @@ h2 {
               float:both;
            }
   
+#volleyball {
+   float:right;
+           }
+           #nationals {
+              float:left;
+           }
+           
+           #girlscouts {
+              float: left;
+           }
