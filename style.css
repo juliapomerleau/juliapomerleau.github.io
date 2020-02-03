@@ -3,9 +3,7 @@ h1{
    color:#FF1493;
    background-color:#FFFFFF;
    font-family: "Georgia";
-   margin-right: 10px;
-   margin-left: 10px;
-   width: 30px;
+   width: 100px;
 }
 
 h2 {
@@ -13,9 +11,7 @@ h2 {
    color:#FFFAFA;
    font-family: "Georgia";
    background-color: #FFFFFF;
-   margin-right: 10px;
-   margin-left: 10px;
-   width: 30px;
+   width: 100px;
         }  
         
         body {
@@ -28,11 +24,9 @@ h2 {
 p {
  color: #FFFFFF;
    background-color: #000000;
-   margin-right: 100px;
-   margin-left: 100px;
     text-align: center;
            font-family: "Georgia";
-   width: 400px;
+   width: 600px;
            }
 
         
