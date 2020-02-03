@@ -1,14 +1,11 @@
-   body {
-       text-align: center;
-      background-image: url("sky1.jpg");
+h1{ 
+   text-align: center;
 }
-
 h2 {
-            color: rgb(200, 2, 15);
     text-align: center;
         }  
         
         body {
-            background-color: rgb(9, 50, 100);
+           background-image: url("sky1.jpg");
             text-align: center;
         }
