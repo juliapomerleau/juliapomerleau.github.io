@@ -17,16 +17,16 @@ h2 {
    text-align: center;
  color: #FFFFFF;
    background-color: #000000;
-   margin-right: 25px;
-   margin-left: 25px;
+   margin-right: 10px;
+   margin-left: 10px;
            }
            
            #list {
               text-align: center;
               color: #FFFFFF;
               background-color: #000000;
-              margin-right: 25px;
-              margin-left: 25px;
+              margin-right: 10px;
+              margin-left: 10px;
               float:both;
            }
   
