@@ -12,32 +12,14 @@ h2 {
            background-color: #E6E6FA;
            background-image: url("sky1.jpg");
             text-align: center;
-
-#bio {
-   text-align: center;
+p {
  color: #FFFFFF;
    background-color: #000000;
    margin-right: 10px;
    margin-left: 10px;
-           }
-           
-           #list {
+       
               text-align: center;
-              color: #FFFFFF;
-              background-color: #000000;
-              margin-right: 10px;
-              margin-left: 10px;
-              float:both;
+           
            }
   
-#volleyball {
-   float:right;
-           }
-           #nationals {
-              float:left;
-           }
-           
-           #girlscouts {
-              float: left;
-           }
 }
