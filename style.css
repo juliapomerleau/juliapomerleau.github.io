@@ -4,6 +4,7 @@ h1{
    background-color:#FFFFFF;
    font-family: "Georgia";
    width:70px;
+   margin: auto;
 }
 
 h2 {
@@ -12,6 +13,7 @@ h2 {
    font-family: "Georgia";
    background-color: #000000;
    width: 70px;
+   margin: auto;
         }  
         
         body {
@@ -26,6 +28,7 @@ p {
     text-align: center;
            font-family: "Georgia";
    width: 200px;
+   margin: auto; 
            }
 
         
@@ -35,4 +38,5 @@ p {
   width: 40px;
      text-align: center;
      font-family: "Georgia";
+            margin: auto; 
 }
