@@ -3,7 +3,7 @@ h1{
    color:#FF1493;
    background-color:#FFFFFF;
    font-family: "Georgia";
-  margin: 100px;
+  margin: 70px;
 }
 
 h2 {
@@ -11,7 +11,7 @@ h2 {
    color:#FFFAFA;
    font-family: "Georgia";
    background-color: #000000;
-margin: 100px;
+margin: 70px;
 
         }  
         
@@ -19,7 +19,7 @@ margin: 100px;
            background-color: #E6E6FA;
            background-image: url("sky.jpg");
            text-align: center;
-           margin: 100px;
+           margin: 70px;
 }
 
 p {
@@ -27,7 +27,7 @@ p {
    background-color: #000000;
     text-align: center;
            font-family: "Georgia";
-   margin: 100px;
+   margin: 70px;
 
 
            }
@@ -38,6 +38,6 @@ p {
      background-color: #000000;
      text-align: center;
      font-family: "Georgia";
-            margin: 40px;
+            margin: 30px;
       
 }
