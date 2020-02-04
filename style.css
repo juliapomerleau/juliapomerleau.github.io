@@ -39,5 +39,6 @@ p {
      text-align: center;
      font-family: "Georgia";
             margin: 30px;
+            list-style-position:inside;
       
 }
